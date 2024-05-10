@@ -14,7 +14,7 @@ int main() {
     int arr[200];
     int num = 0;
 
-    cout<<"Text editor will be opened, please paste all the data in the file and save it\n";
+    cout<<"Text editor will be opened after pressing enter, please paste all the data in the file and save it\n";
     EnterToComtinue();
     system("file.txt");
 
